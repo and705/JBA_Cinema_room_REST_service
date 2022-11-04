@@ -1,7 +1,5 @@
 # JBA_Cinema_room_REST_service
-study project  
-  
-OOP, Spring Boot, REST, Exceptions, JSON  
+study project | OOP, Spring Boot, REST, Exceptions, JSON  
   
   
 GET "/seats" return information about the movie theatre  
